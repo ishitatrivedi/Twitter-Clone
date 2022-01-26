@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztMrTIBIb3aC/ykXDD1+vjp9R587pci0y3v3kIE+5tE742HOI7enOZ7YMu1WEkfoqFEEQIXBzsGVcExciiudFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhavy\\OneDrive\\Documents\\FSharpPrograms\\Project4.2\\Twitter_Clone.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhavy\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\bhavy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bhavy\\.nuget\\packages\\suave\\2.6.0\\suave.2.6.0.nupkg.sha512",
+    "C:\\Users\\bhavy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bhavy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bhavy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\bhavy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
